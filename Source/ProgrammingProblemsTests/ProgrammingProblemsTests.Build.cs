@@ -12,6 +12,8 @@ public class ProgrammingProblemsTests : ModuleRules
         
         RuntimeDependencies.Add("$(ProjectDir)/Source/ProgrammingProblems/TextJustify.cpp");
         RuntimeDependencies.Add("$(ProjectDir)/Source/ProgrammingProblems/LCS.cpp");
+        RuntimeDependencies.Add("$(ProjectDir)/Source/ProgrammingProblems/AlignedAlloc.cpp");
+        RuntimeDependencies.Add("$(ProjectDir)/Source/ProgrammingProblems/Blit.cpp");
     }
 }
 
